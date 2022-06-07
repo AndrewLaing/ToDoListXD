@@ -1,5 +1,5 @@
 # ToDoListXD
-To Do application; C# with SQLite. 
+To Do application; C# with SQLite. (Use NuGet package manager to install System.Data.SQLite into the solution)
 
 # Screenshots
 ![Main User Interface with Context Menu visible](toDoListXD_main.jpg)
