@@ -158,7 +158,7 @@
             this.MinimizeBox = false;
             this.Name = "AddTaskForm";
             this.ShowInTaskbar = false;
-            this.Text = "AddTaskForm";
+            this.Text = "Add Task";
             this.TopMost = true;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.AddTaskForm_FormClosing);
             this.ResumeLayout(false);

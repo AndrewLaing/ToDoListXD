@@ -158,7 +158,7 @@
             this.MinimizeBox = false;
             this.Name = "EditTaskForm";
             this.ShowInTaskbar = false;
-            this.Text = "EditTaskForm";
+            this.Text = "Edit Task";
             this.TopMost = true;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.EditTaskForm_FormClosing);
             this.ResumeLayout(false);

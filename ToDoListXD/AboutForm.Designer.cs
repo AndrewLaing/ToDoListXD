@@ -117,7 +117,7 @@
             this.Controls.Add(this.panel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "AboutForm";
-            this.Text = "AboutForm";
+            this.Text = "About";
             this.Deactivate += new System.EventHandler(this.AboutForm_Deactivate);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.AboutForm_FormClosing);
             this.panel1.ResumeLayout(false);
